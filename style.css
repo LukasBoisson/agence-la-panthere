@@ -1054,3 +1054,33 @@ article img {
     margin-top: 20px;
   }
 }
+
+#bloc-2-services .col-sm-12 p {
+  font-size: 1.5em;
+  max-width: 650px;
+  margin: auto;
+  padding: 30px;
+}
+
+blockquote {
+  border: 0px;
+  margin-bottom: 0;
+}
+blockquote p {
+  font-size: 1.4em;
+  line-height: 1em;
+  font-style: italic;
+  max-width: 656px;
+  margin: auto;
+}
+figcaption {
+  font-size: 1.7em;
+}
+figure {
+  margin-bottom: 30px;
+}
+
+#bloc-4-portfolio .col-sm-12 h2 {
+  max-width: 460px;
+  margin: auto;
+}
