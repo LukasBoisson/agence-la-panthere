@@ -754,7 +754,11 @@ h4 {
   margin-bottom: 44px;
   margin-top: 50px;
 }
-
+article img {
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .avatar {
   box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -1045,5 +1049,8 @@ h4 {
 @media (max-width: 767px) {
   .bloc-mob-center-text {
     text-align: center;
+  }
+  article img {
+    margin-top: 20px;
   }
 }
