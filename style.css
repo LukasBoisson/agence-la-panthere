@@ -746,10 +746,6 @@ h4 {
   margin-top: 24px;
 }
 
-.white {
-  color: #ffffff !important;
-}
-
 .portfolio-thumb {
   margin-bottom: 24px;
 }
@@ -1096,6 +1092,7 @@ figure {
 
 #bloc-3-what-i-do p {
   font-size: 1.3em;
+  color: #ffffff !important;
 }
 
 #bloc-5-cta h2 {
@@ -1106,23 +1103,38 @@ figure {
 
 #bloc-5-cta a {
   font-size: 1.5em;
+  color: #333333 !important;
 }
 
 footer p {
   font-weight: 600;
   padding-bottom: 20px;
   padding-top: 10px;
+  color: #333333 !important;
 }
 
 #bloc-6 h1 {
   font-size: 3em;
   font-weight: 600;
+  color: #ffffff !important;
 }
 
 #bloc-6 p {
   font-size: 1.5em;
+  color: #ffffff !important;
 }
 
 .form-group label {
   font-weight: 600;
+}
+
+footer .fa {
+  color: #333333 !important;
+}
+
+#bloc-7 button {
+  color: #333333 !important;
+}
+#bloc-7 button:hover {
+  color: #ffffff !important;
 }
